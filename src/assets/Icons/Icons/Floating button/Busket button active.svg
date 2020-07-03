@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2EB642" offset="0%"></stop>
+            <stop stop-color="#59D065" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="41" cy="41" r="41"></circle>
+        <filter x="-6.7%" y="-4.3%" width="113.4%" height="113.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Butlers-||-Flow-Copy-2" transform="translate(-955.000000, -8103.000000)">
+            <g id="Main-Screen" transform="translate(270.000000, 648.000000)">
+                <g id="Group-17" transform="translate(415.000000, 6615.000000)">
+                    <g id="Group" transform="translate(273.000000, 841.000000)">
+                        <g id="fab" transform="translate(23.000000, 23.000000)">
+                            <g id="add" transform="translate(0.428571, 0.428571)">
+                                <polygon id="bounds" points="35.1428571 0 0 0 0 35.1428571 35.1428571 35.1428571"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group-9">
+                            <g id="Group-13">
+                                <g id="button-bg">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                </g>
+                                <g id="Group" transform="translate(23.000000, 23.000000)">
+                                    <g id="fab">
+                                        <g id="add" transform="translate(0.428571, 0.428571)">
+                                            <polygon id="bounds" points="35.1428571 0 0 0 0 35.1428571 35.1428571 35.1428571"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="Group-9" transform="translate(3.000000, 5.000000)"></g>
+                                    <g id="Bag-Icon" transform="translate(5.000000, 1.000000)" stroke="#FFFFFF" stroke-width="1.5">
+                                        <rect id="Rectangle" x="0" y="7" width="27" height="27"></rect>
+                                        <path d="M20,14 L20,6.51 C20,2.914625 17.0898172,0 13.5,0 L13.5,0 C9.9101828,0 7,2.914625 7,6.51 L7,14" id="Path"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

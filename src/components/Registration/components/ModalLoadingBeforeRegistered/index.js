@@ -1,0 +1,3 @@
+import ModalLoadingBeforeRegistered from './ModalLoadingBeforeRegistered'
+
+export default ModalLoadingBeforeRegistered

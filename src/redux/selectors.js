@@ -1,0 +1,13 @@
+export const getRegistrationType = state => state.registration.registrationType
+export const getFirstName = state => state.registration.firstName
+export const getLastName = state => state.registration.lastName
+export const getBirthday = state => state.registration.birthday
+export const getPhone = state => state.registration.phone
+export const getEmail = state => state.registration.email
+export const getAddress = state => state.registration.address
+export const getCompanyId = state => state.registration.companyId
+export const getAboutUs = state => state.registration.aboutUs
+export const getPassword = state => state.registration.password
+export const getPasswordConfirmation = state => state.registration.c_password
+export const getUserInfo = state => state.registration
+export const getTailoringItems = state => state.tailoring.tailoringItems

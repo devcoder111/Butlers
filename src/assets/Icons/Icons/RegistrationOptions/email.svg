@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2EB642" offset="0%"></stop>
+            <stop stop-color="#59D065" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="47.5" cy="47.5" r="47.5"></circle>
+        <filter x="-5.3%" y="-4.2%" width="110.5%" height="110.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Butlers-||-Flow-Copy-2" transform="translate(-3717.000000, -979.000000)">
+            <g id="Main-Screen" transform="translate(270.000000, 648.000000)">
+                <g id="Group-50">
+                    <g id="Registration-flow">
+                        <g id="Group-7" transform="translate(3196.000000, 127.000000)">
+                            <g id="Group-6">
+                                <g id="Group-3" transform="translate(24.000000, 206.000000)">
+                                    <g id="Group-2-Copy-33" transform="translate(230.000000, 0.000000)">
+                                        <g id="Group">
+                                            <g id="Oval">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                            </g>
+                                            <g id="163" transform="translate(23.000000, 29.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M43.7566667,0 L6.24333332,0 C2.80111111,0 0,2.83155242 0,6.31174488 L0,30.6882551 C0,34.1684476 2.80111111,37 6.24333332,37 L43.7561111,37 C47.1988888,37 50,34.1684476 50,30.6882551 L50,6.31174488 C50,2.83155242 47.1988888,0 43.7566667,0 Z M6.24333332,1.78755084 L43.7561111,1.78755084 C44.6372222,1.78755084 45.4566666,2.04925323 46.1494444,2.49571975 L28.2894444,19.5473712 C26.4749999,21.2787626 23.5244445,21.2787626 21.7111111,19.5473712 L3.85055555,2.49571975 C4.54333333,2.04925323 5.36277777,1.78755084 6.24333332,1.78755084 Z M48.231111,30.6882551 C48.231111,33.18229 46.2244444,35.2118876 43.7561111,35.2118876 L6.24333332,35.2118876 C3.77611111,35.2118876 1.76833334,33.1828516 1.76833334,30.6882551 L1.76833334,6.31174488 C1.76833334,5.35310545 2.06611111,4.46578836 2.57055555,3.73347094 L20.4972223,20.8468975 C21.7377778,22.0324206 23.3688889,22.6254629 24.9994444,22.6254629 C26.63,22.6254629 28.2616666,22.0324206 29.5022221,20.8468975 L47.4283333,3.73347094 C47.9327778,4.46634995 48.2305556,5.35310545 48.2305556,6.31174488 L48.2305556,30.6882551 L48.231111,30.6882551 Z" id="Shape"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

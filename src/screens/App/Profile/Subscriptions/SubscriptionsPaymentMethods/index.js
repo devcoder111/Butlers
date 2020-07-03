@@ -1,0 +1,3 @@
+import SubscriptionsPaymentMethods from './SubscriptionsPaymentMethodsContainer'
+
+export default SubscriptionsPaymentMethods

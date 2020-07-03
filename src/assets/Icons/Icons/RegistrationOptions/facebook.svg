@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2EB642" offset="0%"></stop>
+            <stop stop-color="#59D065" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="47.5" cy="47.5" r="47.5"></circle>
+        <filter x="-5.3%" y="-4.2%" width="110.5%" height="110.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Butlers-||-Flow-Copy-2" transform="translate(-3602.000000, -979.000000)">
+            <g id="Main-Screen" transform="translate(270.000000, 648.000000)">
+                <g id="Group-50">
+                    <g id="Registration-flow">
+                        <g id="Group-7" transform="translate(3196.000000, 127.000000)">
+                            <g id="Group-6">
+                                <g id="Group-3" transform="translate(24.000000, 206.000000)">
+                                    <g id="Group-2-Copy-12" transform="translate(115.000000, 0.000000)">
+                                        <g id="Group">
+                                            <g id="Oval">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                            </g>
+                                            <path d="M50.9644381,69 L41.6529161,69 L41.6529161,46.9972229 L37,46.9972229 L37,39.4158041 L41.6529161,39.4158041 L41.6529161,34.8641757 C41.6529161,28.6796264 44.2788051,25 51.7439545,25 L57.9573257,25 L57.9573257,32.5841959 L54.0739687,32.5841959 C51.1678521,32.5841959 50.9758179,33.6436506 50.9758179,35.6209291 L50.9630156,39.4158041 L58,39.4158041 L57.1763869,46.9972229 L50.9630156,46.9972229 L50.9630156,69 L50.9644381,69 Z" id="Shape" fill="#FFFFFF"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

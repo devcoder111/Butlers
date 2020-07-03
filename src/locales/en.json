@@ -1,0 +1,10 @@
+{
+  "screens.qrCodeScanner.headerFirstTitle": "Start",
+  "screens.scanResult.infoFirstPart": "Need Help?",
+  "screens.scanResult.infoSecondPart": "Call ",
+  "screens.scanResult.infoThirdPart": " or email ",
+  "screens.scanResult.headerFirstTitle": "Scan",
+  "screens.selectProduct.logoFirstTitle": "Neighborhood by Knotel",
+  "screens.selectProduct.logoSecondTitle": "Porter App",
+  "screens.selectProduct.logoThirdTitle": "Switch to"
+}

@@ -1,0 +1,78 @@
+import { StyleSheet } from 'react-native'
+
+export default StyleSheet.create({
+	container: {
+		height: '100%',
+		width: '100%',
+		backgroundColor: 'rgba(0,0,0,0.5)',
+		justifyContent: 'center',
+		alignContent: 'center',
+		alignItems: 'center',
+	},
+	modalWrap: {
+		width: '90%',
+		marginHorizontal: 20,
+		paddingHorizontal: 20,
+		paddingVertical: 30,
+		textAlign: 'center',
+		justifyContent: 'center',
+		alignContent: 'center',
+		alignItems: 'center',
+		position: 'relative',
+		backgroundColor: '#fff',
+		borderRadius: 25,
+	},
+	text: {
+		color: '#67686C',
+		fontSize: 16,
+		paddingTop: 20,
+		textAlign: 'center',
+	},
+	textNoPadding: {
+		color: '#1E272E',
+		fontSize: 16,
+		textAlign: 'center',
+	},
+	header: {
+		color: '#525255',
+		fontSize: 28,
+		textAlign: 'center',
+		fontWeight: '700',
+		lineHeight: 36,
+		fontFamily: 'Circular Std',
+	},
+	touchable: {
+		position: 'absolute',
+		right: 0,
+		top: 0,
+		padding: 20,
+	},
+	closeButton : {
+		// width: '100%',
+		paddingHorizontal: '40%',
+		justifyContent: 'center',
+		alignItems: 'center',
+		paddingVertical: 12,
+		backgroundColor: '#2ED573',
+		borderWidth: 1,
+		borderColor: '#2ED573',
+		borderRadius: 35,
+		marginVertical: 30,
+		textAlign: 'center',
+	},
+	footerTextTop: {
+		color: '#67686C',
+		fontWeight: 'bold',
+		fontSize: 14,
+	},
+	footerTextLink: {
+		color: '#3FECA3',
+		fontWeight: '600',
+		fontSize: 14,
+	},
+	footerTextBottom: {
+		color: '#67686C',
+		fontWeight: '400',
+		fontSize: 14,
+	},
+})

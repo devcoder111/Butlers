@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="127" height="199">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="16.091362" y="30.645157">
+				B
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="33.930763" y="30.645157">
+				u
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="51.547417" y="30.645157">
+				t
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_3">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_3)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="62.25882" y="30.645157">
+				l
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_4">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_4)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="70.029922" y="30.645157">
+				e
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_5">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_5)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="86.339775" y="30.645157">
+				r
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_6">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_6)">
+		<text fill="rgb(255,255,255)" stroke="none" transform="translate(0 160.934)" font-size="30.412798" font-family="Segoe UI" x="97.318481" y="30.645157">
+				s
+		</text>
+	</g>
+	<defs>
+		<clipPath id="clip_7">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_7)">
+		<path fill="rgb(255,255,255)" stroke="none" transform="translate(10.771 0.315735)" d="M0 91.2721C0 120.338 23.5569 143.987 52.5116 143.987C81.4663 143.987 105.021 120.338 105.019 91.2721C105.019 64.0934 61.8222 8.39677 56.8958 2.13427C55.8356 0.785619 54.2183 0 52.5097 0C50.8011 0 49.1838 0.78749 48.1237 2.13427C43.1991 8.3949 0 64.0934 0 91.2721ZM11.1794 91.2721C11.1794 73.5227 37.8908 34.2792 52.5116 14.8089C67.1305 34.2792 93.8419 73.5227 93.8437 91.2721C93.8437 114.152 75.3027 132.764 52.5116 132.764C29.7205 132.764 11.1794 114.15 11.1794 91.2721Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_8">
+			<rect x="-124" y="-307" width="375" height="812" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_8)">
+		<path fill="rgb(255,255,255)" stroke="none" transform="translate(57.5869 86.8344)" d="M5.63863 35.3653C2.52422 35.3653 0 32.8893 0 29.8345C0 26.7797 2.52422 24.3038 5.63863 24.3038C16.1941 24.3038 24.7836 15.8842 24.7836 5.53072C24.7836 2.47592 27.3079 0 30.4223 0C33.5348 0 36.0609 2.47592 36.0609 5.53072C36.059 21.9809 22.4117 35.3653 5.63863 35.3653Z"/>
+	</g>
+
+</svg>
